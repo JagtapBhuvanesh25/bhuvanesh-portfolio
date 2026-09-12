@@ -103,7 +103,7 @@
 
   const CP = {
     totalSolved: "700+",
-    leetcode: { platform: "LeetCode", rating: "1731", rank: "Top 12%", solved: "350+", handle: "kanhadeshmukh25", url: PROFILE.leetcode, badge: "Top13%", color: "#FFA116" },
+    leetcode: { platform: "LeetCode", rating: "1731", rank: "Top 13%", solved: "350+", handle: "kanhadeshmukh25", url: PROFILE.leetcode, badge: "Top13%", color: "#FFA116" },
     codeforces: { platform: "Codeforces", rating: "1514", rank: "Specialist", solved: "200+", handle: "bhuvanesh25", url: PROFILE.codeforces, badge: "Specialist", color: "#03a89e" },
     codechef: { platform: "CodeChef", rating: "1710", rank: "3-Star ★★★", solved: "150+", handle: "kanhadeshmukh", url: PROFILE.codechef, badge: "3★", color: "#d4af37" },
   };
@@ -1314,7 +1314,6 @@
       stats.appendChild(statBox(CP.leetcode.rating, "Contest Rating"));
       stats.appendChild(statBox(CP.leetcode.rank, "Rank Bracket"));
       stats.appendChild(statBox(CP.leetcode.handle, "Handle"));
-      stats.appendChild(statBox(CP.totalSolved, "Total Solved"));
       card.appendChild(stats);
 
       const footer = el("div", { cls: "cp-platform-footer" });
