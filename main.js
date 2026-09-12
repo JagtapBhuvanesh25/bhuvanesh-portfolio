@@ -13,7 +13,7 @@
   const PROFILE = {
     fullName: "Bhuvanesh Janardan Jagtap",
     shortName: "Bhuvanesh Jagtap",
-    role: "Software Engineer",
+    role: "B.E Information Technology Student",
     subRoles: ["Full Stack Developer", "Competitive Programmer"],
     location: "Pune, Maharashtra, India",
     email: "deshmukhkanha25@gmail.com",
@@ -103,7 +103,7 @@
 
   const CP = {
     totalSolved: "700+",
-    leetcode: { platform: "LeetCode", rating: "1731", rank: "Top 12%", solved: "350+", handle: "kanhadeshmukh25", url: PROFILE.leetcode, badge: "Active Contender", color: "#FFA116" },
+    leetcode: { platform: "LeetCode", rating: "1731", rank: "Top 12%", solved: "350+", handle: "kanhadeshmukh25", url: PROFILE.leetcode, badge: "Top13%", color: "#FFA116" },
     codeforces: { platform: "Codeforces", rating: "1514", rank: "Specialist", solved: "200+", handle: "bhuvanesh25", url: PROFILE.codeforces, badge: "Specialist", color: "#03a89e" },
     codechef: { platform: "CodeChef", rating: "1710", rank: "3-Star ★★★", solved: "150+", handle: "kanhadeshmukh", url: PROFILE.codechef, badge: "3★", color: "#d4af37" },
   };
