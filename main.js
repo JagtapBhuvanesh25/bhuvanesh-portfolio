@@ -25,8 +25,8 @@
     codeforces: "https://codeforces.com/profile/bhuvanesh25",
     codechef: "https://www.codechef.com/users/kanhadeshmukh",
     // Update these two paths once the real files are placed in /assets.
-    resumePath: "I2K231216_BhuvaneshJagtap_Resume.pdf",
-    photoPath: "BhuvaneshJagtap_ProfilePhoto1.jpg",
+    resumePath: "assets/I2K231216_BhuvaneshJagtap_Resume.pdf",
+    photoPath: "assets/BhuvaneshJagtap_ProfilePhoto1.jpg",
     tagline:
       "Software engineer building full-stack systems, sharpened by 700+ competitive programming problems solved.",
     introShort:
